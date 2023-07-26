@@ -88,6 +88,3 @@
 [submodule "neatlogic-codehub"]
 	path = neatlogic-codehub
 	url = https://github.com/neatlogic/neatlogic-codehub.git
-[submodule "neatlogic-master"]
-	path = neatlogic-master
-	url = https://github.com/neatlogic/neatlogic-master.git
